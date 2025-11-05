@@ -7,6 +7,7 @@ Porject link: https://rag-document-q-and-a.streamlit.app/
 🔍 Purpose: A Retrieval-Augmented Generation (RAG) system that enables intelligent document Q&A by combining retrieval-based search with generative AI models.
 
 🚀 Features
+
 ✅ Ingest & Process Documents – Supports PDFs, DOCX, TXT files
 ✅ Semantic Search – Retrieves relevant context from documents
 ✅ Generative AI Integration – Uses LLMs like OpenAI, DeepSeek, or Vertex AI
